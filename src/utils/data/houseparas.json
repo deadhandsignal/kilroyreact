@@ -1,0 +1,45 @@
+[
+
+{
+
+ "aTextElements":{
+
+  "text":  "The country is facing an unprecedented housing and homelessness crisis with the latest figures showing close to 10,000 adults and children living in state-funded emergency accommodation in February. The deepening of the homeless crisis at such a rapid rate in Ireland has it's roots in a broken housing system. Ireland does not have a public housing system to meet the needs of its growing population. Provision of affordable public housing is an essential part of any country’s housing system. It serves as a crucial safety net for families and individuals who've been pushed out of the private rental market due to the rapidly increasing cost of renting and the serious lack of housing coming to market. In the last decade the lack burgeoning numbers waiting for social housing provision combined with building sedctor grinding to a halt has lead to a massive increase in the demand in the private rented sector. Almost 1 in 5 households now live in a privately rented home compared to 1 in 10 ten years ago. This has led to enormous pressure on the private rental market which in turn has result to constantly rising rent levels in also a lack in properties to rent. Landlords are not complaining.",
+  "heading":"The safety net is gone",
+  "textposition": "1"
+            }
+},
+{
+  "bTextElements":{
+
+  "text": "Due to this massive pressure on the housing market and the increase on people defaulting on their mortgages people have lost their homes  and been forced to look for emergency accomdation. In the past, most of the people using emergency homeless accommodation were single adults. But in the last three years, there has been a rapid increase in the number of families becoming homeless, and in February 2018, there were 1,739 families accessing emergency accommodation, including 3,755 children. Housing Minister Eoghan Murphy has said that there may be new reasons why people are becoming homeless. He was speaking after new figures revealed a rise of 488 in the number of homeless children in February dramatically increased. \" It was brought to my attention in the course of the last two months, by the Dublin Regional Homelessness Executive, that there may be new trends developing, new reasons for presentations, particularly when it comes to families, and that is something we're investigating at the moment\".",
+  "textposition": "2",
+  "heading":"New reasons for homelessness "
+            }
+},
+{
+  "dTextElements":{
+
+  "text": "The number of homeless children has quintupled in under four years, while the number of homeless adults has more than doubled. June Tinsley, Head of Advocacy at Barnardos, said: “This is the largest jump in child homelessness in a single month we have seen in two years. With the cost of rent continuing to rise across the country, it is unsurprising more families find themselves unable to afford market rents and end up experiencing homelessness as a result. The Government must accept that their current strategies aren’t working and take action to stem the tide of child homelessness. Greater preventative measures such as rent certainty and security of tenure must be implemented as an emergency response.\" In February of this year, there were 3,755 children in emergency homeless accommodation with their families",
+
+  "textposition": "3",
+  "heading":"Child homelessness still on the increase"
+                }
+},
+{
+  "eTextElements":{
+
+  "text": "Thousands of people took to the streets of Dublin on Saturday calling for an end to the housing and homelessness crisis in Ireland. Thousands of people took to the streets of Dublin on Saturday calling for an end to the housing and homelessness crisis in Ireland. The protest was organised by the National Homeless and Housing Coalition, which is supported by the organisations such as Focus Ireland, the Peter McVerry Trust, Merchants Quay Ireland, as well as a number of activism and trade union groups, political parties, actors and musicians. The protestors were told that trade unions would mobilise to press for the building of 10,000 public homes every year for the next five years. Kevin Callanan, the vice-president of the Irish Congress of Trade Unions told the crowd that Congress had set up a committee to campaign for an end to homelessness. It will have three aims: The first is for the Government to declare a homelessness emergency. The second is for the building of 10,000 homes by the State every year for five years, and the third is for a referendum giving everybody a right to a home.",
+  "textposition": "4",
+  "heading":"Thousands protest in the capital "
+                }
+},
+{
+  "fTextElements":{
+
+  "text": "Hitting out at the current Housing Minister Eoghan Murphy, McVerry said if he were running a business, Murphy would be asked to come up with a comprehensive plan to deal with the crisis and lower losses. Had losses continued to rise over the period of 15 months \"he would be sacked,\" said McVerry. He's calling on the government to start building on public land and to bring the building of social housing back under the remit of local authorities. Solutions to the crisis that have already been stated by Fr McVerry such as a ban on evictions from the private rented sector, and a huge increase in building social housing.  McVerry has called it a \" national scandal\" that over 10,000 people are homeless and is urging the public to get involved and voice their anger at the housing and homelessness situation.",
+  "textposition": "5",
+  "heading":"Minister would be sacked "
+                }
+}
+]

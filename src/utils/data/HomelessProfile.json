@@ -1,0 +1,20 @@
+[
+  {
+    "month": "January-15",
+    "Adult Male": 1963,
+     "Adult Male Colour": "hsl(225, 70%, 50%)",
+    "Adult Female": 1017,
+    "Adult Female Colour": "hsl(233, 70%, 50%)",
+    "Children": 865,
+    "ChildrenColour": "hsl(315, 70%, 50%)"
+  },
+  {
+    "month": "February-18",
+    "Adult Male": 3482,
+    "Adult Male Colour": "hsl(59, 70%, 50%)",
+    "Adult Female": 2570,
+    "Adult Female Colour": "hsl(310, 70%, 50%)",
+    "Children": 3755,
+    "ChildrenhColour": "hsl(219, 70%, 50%)"
+  }
+]
