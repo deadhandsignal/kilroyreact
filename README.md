@@ -92,19 +92,14 @@ To create a production build, use npm run build.
 * **Thomas Kilroy** - *Initial work* - [deadhandsignal](https://github.com/deadhandsignal)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* To my lecturer Basile Simon of The Times and Dr. Sabin Tabirca of University College Cork
+* A huge debt of gratitude to my lecturers Basile Simon of The Times and Dr. Sabin Tabirca of University College Cork. 
 
 
 ## Meta
 Thomas Kilroy – [@tpkilroy](https://twitter.com/tpkilroy) – thomas.kilroy@city.ac.uk
-
-Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 [https://github.com/deadhandsignal](https://github.com/deadhandsignal/)
 
