@@ -1,4 +1,3 @@
-[![Deadhandsignal][npm-image]][npm-url]
 # Using React to build a Single-Page Application to publish your news story
 
 This Single-page Applicaiton was built with React JavaScript library my Masters in Interactive Journalism. My goal was to learn the fundamentals of REACT, improve my JavaScript and learn more about deploying Single Page Applications for the purpose of journalistic work.
