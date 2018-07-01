@@ -1,4 +1,4 @@
-#  A Single-Page Application with react - build a story
+#  Building a news story - A single-page application built with React 
 
 This Single-page Applicaiton was built with React JavaScript library my Masters in Interactive Journalism. My goal was to learn the fundamentals of REACT, improve my JavaScript and learn more about deploying Single Page Applications for the purpose of journalistic work.
 
