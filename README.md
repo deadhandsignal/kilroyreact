@@ -83,7 +83,7 @@ To create a production build, use npm run build.
 ## Built With
 
 * [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-* [Nivo](http://nivo.rocks/#/) - Dependency Management
+* [Nivo](http://nivo.rocks/#/) - Data graphics library build on d3 and react. 
 
 
 
